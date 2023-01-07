@@ -1,5 +1,5 @@
 {
-  "name": "login",
+  "name": "PasswordApp",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -68,8 +68,5 @@
   "devDependencies": {
     "@capacitor/cli": "4.6.1"
   },
-  "description": "An Ionic project",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  "description": "An Ionic project"
 }

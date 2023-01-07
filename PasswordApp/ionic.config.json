@@ -1,0 +1,7 @@
+{
+  "name": "PasswordApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
